@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/German/Documents/GitHub/mobiilrak_unreal/Racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset",
+				"C:/Users/German/Documents/GitHub/mobiilrak_unreal/Racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"C:/Users/German/Documents/GitHub/mobiilrak_unreal/Racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"C:/Users/German/Documents/GitHub/mobiilrak_unreal/Racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset"
+			]
+		}
+	]
+}
